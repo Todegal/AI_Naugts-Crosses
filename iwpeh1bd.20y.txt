@@ -1,0 +1,47 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   AI - Naughts & Crosses/Assets/Game.unity
+#	new file:   AI - Naughts & Crosses/Assets/Game.unity.meta
+#	new file:   AI - Naughts & Crosses/Assets/Instances.meta
+#	new file:   AI - Naughts & Crosses/Assets/Instances/Board.prefab
+#	new file:   AI - Naughts & Crosses/Assets/Instances/Board.prefab.meta
+#	new file:   AI - Naughts & Crosses/Assets/Instances/Cross.prefab
+#	new file:   AI - Naughts & Crosses/Assets/Instances/Cross.prefab.meta
+#	new file:   AI - Naughts & Crosses/Assets/Instances/Naught.prefab
+#	new file:   AI - Naughts & Crosses/Assets/Instances/Naught.prefab.meta
+#	new file:   AI - Naughts & Crosses/Assets/Scripts.meta
+#	new file:   AI - Naughts & Crosses/Assets/Sprites.meta
+#	new file:   AI - Naughts & Crosses/Assets/Sprites/Board.png
+#	new file:   AI - Naughts & Crosses/Assets/Sprites/Board.png.meta
+#	new file:   AI - Naughts & Crosses/Assets/Sprites/Cross.png
+#	new file:   AI - Naughts & Crosses/Assets/Sprites/Cross.png.meta
+#	new file:   AI - Naughts & Crosses/Assets/Sprites/Naught.png
+#	new file:   AI - Naughts & Crosses/Assets/Sprites/Naught.png.meta
+#	modified:   AI - Naughts & Crosses/Library/assetDatabase3
+#
+# Changes not staged for commit:
+#	modified:   AI - Naughts & Crosses/Library/metadata/00/00000000000000004000000000000000
+#	modified:   AI - Naughts & Crosses/Library/metadata/00/00000000000000006100000000000000
+#
+# Untracked files:
+#	AI - Naughts & Crosses/Library/CurrentMaximizeLayout.dwlt
+#	AI - Naughts & Crosses/Library/ScriptAssemblies/
+#	AI - Naughts & Crosses/Library/metadata/11/
+#	AI - Naughts & Crosses/Library/metadata/13/
+#	AI - Naughts & Crosses/Library/metadata/4f/
+#	AI - Naughts & Crosses/Library/metadata/90/
+#	AI - Naughts & Crosses/Library/metadata/93/
+#	AI - Naughts & Crosses/Library/metadata/97/9732a631dc31f754a9dde6028c130af5
+#	AI - Naughts & Crosses/Library/metadata/97/9732a631dc31f754a9dde6028c130af5.info
+#	AI - Naughts & Crosses/Library/metadata/c3/
+#	AI - Naughts & Crosses/Library/metadata/cf/
+#	AI - Naughts & Crosses/Library/metadata/de/
+#	AI - Naughts & Crosses/Library/metadata/e9/
+#	AI - Naughts & Crosses/Temp/
+#
+
